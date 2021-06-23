@@ -1,0 +1,27 @@
+***gameplay loop idea summary***
+
+a way to make players not know where other players are at on the map.
+
+game start:players start the game by randomly drawing a hunter from the hunter deck. they then get random health bar chunks(arrange how they want), 3 random traits and choose a starting weapon from two options. all players draw one location card. this will be their starting location. draw a card from the boss card deck this will be the bounty then draw a location card from the deck and place it face down next to the boss
+
+what player's do on their turn
+
+players draw a location card and put it in their hand.(if they dont already have one) they have the option to loot the place 3 times by drawing from the loot deck(once per turn). the loot deck is filled with loot however you have a one in 4 chance of drawing a monster which you must fight.
+
+in order to leave a location players must place the location card face up on the table for everyone to see before drawing another. if any other players have the same location card in their hand they can also place it down to engage in combat
+
+once you leave a location you draw an event card from the events deck and follow what it says before drawing your next location card.
+
+once a player has collected all 3 of their clues, on their next turn they can instantly travel to the boss location if they so choose. and begin fighting the boss.
+
+if other players wish to intercept the boss lair while someone is fighting it they must "traverse the bayou" by rolling their D20 until they roll a 17 or higher. failing this will require the player to draw from the event card pile and ending their turn. which they can immediatley play to travel to the boss location and join the fight.
+
+------------------------------------------------------------------------------------------------------------------
+
+make game revolve around 3 phases
+
+Hunt Phase:
+
+extraction phase:
+
+make action cards that are unique to each legendary hunter these will be like the i dont think so cards from red dragon.

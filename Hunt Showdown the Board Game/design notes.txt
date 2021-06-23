@@ -1,0 +1,45 @@
+* make clue system that only the player who finds their clues get to know where the boss is
+
+make everyone have their own clues that only they can collect once they collect all 3 of their clues they pull from a bag that has a card that reveals the monsters location
+-----------------------------------------------------------------------------
+*replace grid hopping movment system with location cards that you can move to
+
+idea: use in game map as board layout place location cards on top of all the corresponding areas these location cards will have numbers on them where you must roll within the displayed numbers to travel there, every time you fail to travel to that location you must draw from the top of the event card pile
+
+idea: when a player is at a compound/location they are allowed to "loot" the place, make each location have only a set number of times the player is allowed to draw from the event card stack
+
+(maybe make it so that the closer you are to a location the more likley it is that you end up rolling the numbers to get there
+
+idea: killing monsters gives xp that can be spent on a store that has traits (binding of isaac treasure store style)
+
+
+IMPORTANT: 30 max health needs to change to something divisible by 2 all the way down to 0 thinking 40 health is a good idea, keep in mind that ALL HEALTH AND DAMAGE VALUES NEED TO BE ADJUSTED	 as well as reworking the chunk system a bit
+
+
+unlike the video game there will be no difference between tools and consumables, all tools will act as consumables
+
+
+
+dying: you lose your rightmost health chunk and respawn somewhere on the overworld map if a player kills you they get 50xp
+
+if you retreat from battle you must place a trait card on the table, if there are any other players that retreat they must do the same and add to the stack.
+
+
+***gameplay loop idea summary***
+
+a way to make players not know where other players are at on the map.
+
+players start the game by getting random health bar chunks(arrange how they want), 3 random traits and choose a starting weapon from two options. all players draw one location card. this will be their starting location
+
+players draw a location card and put it in their hand.
+*in order to leave a location players must place the location card face up on the table for everyone to see. if another player has the same location card in their hand they can also place it down to engage in combat
+
+------------------------------------------------------------------------------------------------------------------
+
+make game revolve around 3 phases
+
+Clue/Hunt Phase: during this phase player goal will be to build up their decks by looting compounds. this is also where they must find their 3 clues. whoever finds the third clue will know where the boss is,
+
+Boss Fight Phase:
+
+Extraction Phase

@@ -1,0 +1,54 @@
+Caldwell Rival78():DMG ammo cap 2
+
+Bomb Lance():DMG ammo cap 1
+
+crossbow():DMG ammo cap 1
+
+Crown and king auto():DMG ammo cap 4
+
+Lebel 1886():DMG ammo cap 6
+
+Martini Henry():DMG ammo cap 1
+
+Mosin Nagant M1891():DMG ammo cap 5
+
+Mosin Nagant Avtomat():DMG ammo cap 6 | 3 round burst
+
+Nagant officer():DMG ammo cap 6
+
+Nagant officer Carbine():DMG ammo cap 6
+
+Nitro express rifle():DMG ammo cap 2
+
+Romero 77():DMG ammo cap 1
+
+Sparks LRR():DMG ammo cap 1
+
+Specter 1882():DMG ammo cap 3
+
+Springfield 1866():DMG ammo cap 1
+
+Vetterli 71 Karabiner()DMG ammo cap 6
+
+Winfield Terminus[shotgun]()DMG ammo cap 6
+
+Winfield M1873C():DMG ammo cap 6
+
+Bornheim No.3():DMG ammo cap 5
+
+Caldwell Conversion Pistol():DMG ammo cap 6
+
+Caldwell Conversion Uppercut():DMG ammo cap 6
+
+Caldwell Pax():DMG ammo cap 6
+
+Cavalry Saber[melee]():DMG
+
+Dolch 96():DMG ammo cap 6
+
+hand Crossbow():DMG ammo cap 1
+
+Lemat Mark II Revolver():DMG ammo cap 5 bullets + 1 shotgun shell player says what mode he wants to shoot with
+
+Machete[melee]():DMG
+

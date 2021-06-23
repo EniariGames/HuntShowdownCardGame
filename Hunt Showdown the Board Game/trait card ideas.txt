@@ -1,0 +1,96 @@
+currently have 23 unique traits total=43 players should only be allowed 6 traits, 2 weapons, & 4 slots for consumables 
+
+(traits cost 10 xp for common ones (qty of 3 or more in the deck)
+15 xp for rare ones (qty of 2 in the deck)
+20 xp for legendary ones (qty of 1 in the deck)
+
+
+Fanning(active)(qty:1): if you are using a single action pistol you may fire all your bullets in a single turn. you may only use this once per combat session
+
+Conduit(passive)(qty:3): replenish a health chunk after picking up a clue or the bounty
+
+Packmule(passive)(qty:2): upon depleting a compound's resources you may loot one additional time
+
+adrenaline(active)(qty:2): if your HP reaches 5 or below and you have not taken fatal damage, you may play this card to leave combat
+
+Greyhound:(passive)(qty:3): makes moving around the map easier and faster [update when movment system is implemented]
+
+Hornskin(passive)(qty:2): reduce melee damage taken by -2
+
+determination()(qty:0): TBD
+
+Iron repeater()(qty:0): TBD
+
+Resillience(passive)(qty:2): respawn to your maximum health (this does not mean you get back lost health chunks)
+
+Bolt thrower(passive)(qty:2): load an additional crossbow bolt to any crossbow variant weapon
+
+Levering(active)(qty:1): if you are using a lever action weapon you may play this card to fire 3 bullets in a single turn. you may only use this once per combat session.
+
+salveskin(passive)(qty:3): reduce fire damage by -2
+
+Bulwark(passive)(qty:2):reduce the damage from explosives by -4
+
+Ghoul:(passive)(qty:3):killing grunts restores +2 health
+
+Gator legs()(qty:0): TBD
+
+Deadeye Scopesmith()(qty:0): TBD
+
+silent killer()(qty:0): TBD
+
+Lightfoot()(qty:0): TBD
+
+Serpent(passive)(qty:1): taking clues does not cost a turn. if you are participating in combat with the boss and another player and the other player kills the boss, you get the bounty.
+
+Physician(passive)(qty:3): healing in combat does not cost a turn
+
+steady aim(passive)(qty:2): increase chance of hitting by +1 if you are using a rifle
+
+whispersmith()(qty:0): TBD
+
+steady hand()(qty:3): increase the chance of hitting by +1 if you are using a pistol
+
+Marksman Scopesmith()(qty:0): TBD
+
+Bloodless()(qty:0): TBD
+
+Frontiersman(passive)(qty:2): consumables can be used one extra time before discarding but not on the same turn
+
+Beastface()(qty:0): TBD
+
+Decoy Supply(Passive)(qty:1): regenerate decoys after combat [might be too OP]
+
+Ambidextrous(passive)(qty:2): allows duel weilding if you find another pistol or hand crossbow, allowing you to fire both during one turn of combat. however, accuracy is decreased by -2
+
+Tomahawk()(qty:0): TBD
+
+Iron Sharpshooter()(qty:0): TBD
+
+Bolt Seer()(qty:0):TBD
+
+quartermaster()(qty:0): TBD [need to figure out if switching weapons during combat is allowed]
+
+mithridatist(passive)(qty:3): if you have been poisoned roll a D4 if you land on 4 the poison effect is removed
+
+Pitcher()(qty:0): TBD
+
+Bulletgrubber()(qty:0): TBD
+
+Poacher()(qty:0): TBD
+
+Dauntless(active)(qty:3): thrown explosives can be defused (can only be used once per combat session)
+
+Kiteskin()(qty:0): TBD
+
+Iron Devastator()(qty:0): TBD
+
+Necromancer()(qty:0): TBD
+
+Vulture(passive)(qty:1): Loot 2 items from a dead hunter instead of 1
+
+Doctor(passive)(qty:1): doubles the amount of health restored by healing items
+
+sniper scopesmith()(qty:0): TBD
+
+vigilant()(qty:0): TBD

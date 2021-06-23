@@ -1,0 +1,64 @@
+during a players turn in combat they must choose 2 paths to take, after choosing a path they may do any or all of the choices in that path in any order.
+
+attack path: attack a player with your primary weapon, use a non healing consumable on an adjacent player, play an active trait card
+defend path: move to an adjacent movement slot, reload, use ANY consumable either on yourself or an adjacent player. reroll for cover. Note: consumables dont have to be used on the player you attacked with your primary weapon.
+
+quad deringer pistol(3): one time use, fires 4 inaccurate shots in one turn discard after use
+
+bear trap(8): place down between move zones on combat board. if any player moves across it the trap is discarded and the player takes +4 damage
+
+poison trip mine(4): place down between move zones on combat board. if any player moves across it the trap is discarded and the player takes +2 damage and cannot heal on their next turn
+
+concertina bomb(6): throw on a player during combat, deals +4 damage on impact and prevent them from moving during their next turn.
+
+choke bomb(8): throw on a player during combat, decreases accuracy by -2 for one turn
+instantly kills immolator
+
+dusters[tool](16): +1  passive damage to all monsters
+
+first aid kit(8): heals +15 of your health (half of your health)
+
+vitality shot(16): heals 8 health (1/4 of your health)
+
+flare pistol(5): deals 7 fire damage, instantly kills armored
+
+Heavy knife[tool](8): +3 passive damage to all monsters (except immolators)
+
+Knife[tool](16): +2 passive damage to all monsters (except immolators)
+
+knuckle kife[tool](4): +2 damage to all monsters
+
+throwing knives(24): consumable item that deals +2 damage to all enemies if you find more of these you can stack them on top of eachother in your inventory
+
+decoys(8): chose one: 1.throw on a empty movement square during combat to immediatley force the next player to move there on their turn. 2.throw on another player to force the next player to attack that player
+
+Ammo box(10):playing this card will refill you 20 regular ammo and 3 special ammo of your choosing
+
+antidote shot(10):consuming this item will remove the effects of poison and make you immune to poison for 2 turns
+
+big dynamite bundle(3):once thrown it wont explode until your enemy's next turn if they are still on the tile it was thrown on it will deal +30 damage
+
+Dynamite bundle(5):once thrown it wont explode until your enemy's next turn if they are still on the tile it was thrown on it will deal +20 damage
+
+dynamite stick(7): once thrown it wont explode until your enemy's next turn if they are still on the tile it was thrown on it will deal +10 damage
+
+chaos bomb(): TBD
+
+fire bomb(7): throw on an enemy and deal +6 fire damage
+
+Hellfire Bomb(3): throw on an enemy and deal +12 fire damage
+
+flash bomb(7): throw on an enemy and decrease their accuracy by 4 for one turn
+
+frag bomb(5): throw on an enemy and deal +6 damage instantly
+
+Hive Bomb(7): when thrown, roll a 2 or better to see if the swarm will attack your target. if you succeed the target gets poisoned and takes 4 damage. if you fail that roll the swarm attacks you instead.
+
+poison bomb(7): throw on an enemy to poison them.
+
+stamina shot(): TBD might give some buff to movment
+
+sticky bomb(): TBD
+
+waxed dynamite stick(): TBD
+
